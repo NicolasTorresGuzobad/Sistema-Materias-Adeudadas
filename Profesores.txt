@@ -1,0 +1,4 @@
+Ana Martinez,Lengua,2,B
+Jorge Lopez,Matematicas,4,D
+Jose Ruiz,Sociales,3,B
+
