@@ -190,7 +190,7 @@ while gate:
                     break
 
             if inscripcion_encontrada:
-                print("Datos de la inscripción:")
+                print("Datos de inscripción:")
                 print(f"Fecha: {inscripcion_encontrada.fecha}")
                 print(f"Profesor: {inscripcion_encontrada.profesor}")
                 print(f"Curso: {inscripcion_encontrada.curso}")
